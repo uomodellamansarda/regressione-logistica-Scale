@@ -13,6 +13,7 @@ Attualmente sto cercando di capire come creare una funzione che mi permette di:
 4) Ci sono altri file da aprire?
 
 Si
+
   1b) Lo script mi chiede di selezionare il file da analizzare
   
   2b) Lo script analizza il file
